@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BBDD II\\BlazorAppVSC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8321D638-A84D-4A7B-827B-D597ABF19C7C}|BlazorAppVSC.csproj|c:\\bbdd ii\\blazorappvsc\\layout\\componentetitulo.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8321D638-A84D-4A7B-827B-D597ABF19C7C}|BlazorAppVSC.csproj|solutionrelative:layout\\componentetitulo.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8321D638-A84D-4A7B-827B-D597ABF19C7C}|BlazorAppVSC.csproj|C:\\BBDD II\\BlazorAppVSC\\pages\\alumnos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8321D638-A84D-4A7B-827B-D597ABF19C7C}|BlazorAppVSC.csproj|solutionrelative:pages\\alumnos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8321D638-A84D-4A7B-827B-D597ABF19C7C}|BlazorAppVSC.csproj|C:\\BBDD II\\BlazorAppVSC\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8321D638-A84D-4A7B-827B-D597ABF19C7C}|BlazorAppVSC.csproj|solutionrelative:layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8321D638-A84D-4A7B-827B-D597ABF19C7C}|BlazorAppVSC.csproj|C:\\BBDD II\\BlazorAppVSC\\layout\\componentetitulo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8321D638-A84D-4A7B-827B-D597ABF19C7C}|BlazorAppVSC.csproj|solutionrelative:layout\\componentetitulo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8321D638-A84D-4A7B-827B-D597ABF19C7C}|BlazorAppVSC.csproj|C:\\BBDD II\\BlazorAppVSC\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8321D638-A84D-4A7B-827B-D597ABF19C7C}|BlazorAppVSC.csproj|solutionrelative:pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8321D638-A84D-4A7B-827B-D597ABF19C7C}|BlazorAppVSC.csproj|C:\\BBDD II\\BlazorAppVSC\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8321D638-A84D-4A7B-827B-D597ABF19C7C}|BlazorAppVSC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\BBDD II\\BlazorAppVSC\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\BBDD II\\BlazorAppVSC\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "Layout\\MainLayout.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-27T20:27:21.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alumnos.razor",
+              "DocumentMoniker": "C:\\BBDD II\\BlazorAppVSC\\Pages\\Alumnos.razor",
+              "RelativeDocumentMoniker": "Pages\\Alumnos.razor",
+              "ToolTip": "C:\\BBDD II\\BlazorAppVSC\\Pages\\Alumnos.razor",
+              "RelativeToolTip": "Pages\\Alumnos.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T20:26:29.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComponenteTitulo.razor.css",
+              "DocumentMoniker": "C:\\BBDD II\\BlazorAppVSC\\Layout\\ComponenteTitulo.razor.css",
+              "RelativeDocumentMoniker": "Layout\\ComponenteTitulo.razor.css",
+              "ToolTip": "C:\\BBDD II\\BlazorAppVSC\\Layout\\ComponenteTitulo.razor.css",
+              "RelativeToolTip": "Layout\\ComponenteTitulo.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-27T20:24:27.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComponenteTitulo.razor",
+              "DocumentMoniker": "C:\\BBDD II\\BlazorAppVSC\\Layout\\ComponenteTitulo.razor",
+              "RelativeDocumentMoniker": "Layout\\ComponenteTitulo.razor",
+              "ToolTip": "C:\\BBDD II\\BlazorAppVSC\\Layout\\ComponenteTitulo.razor",
+              "RelativeToolTip": "Layout\\ComponenteTitulo.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T20:18:48.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\BBDD II\\BlazorAppVSC\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Pages\\Counter.razor",
+              "ToolTip": "C:\\BBDD II\\BlazorAppVSC\\Pages\\Counter.razor",
+              "RelativeToolTip": "Pages\\Counter.razor",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T18:18:55.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BBDD II\\BlazorAppVSC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\BBDD II\\BlazorAppVSC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:09:58.449Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
